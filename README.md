@@ -1,8 +1,8 @@
 ```markdown
-# PyTorch Recognition
+# PyTorch CAPTCHA Recognition
 
 ## Overview
-PyTorch Recognition is a project aimed at building and training models for CAPTCHA recognition using the PyTorch framework. This repository contains the necessary code, datasets, and instructions to replicate the experiments and results.
+PyTorch CAPTCHA Recognition is a project aimed at building and training models for CAPTCHA recognition using the PyTorch framework. This repository contains the necessary code, datasets, and instructions to replicate the experiments and results.
 
 ## Features
 - Implementation of a Convolutional Neural Network (CNN) for CAPTCHA recognition.
@@ -10,7 +10,7 @@ PyTorch Recognition is a project aimed at building and training models for CAPTC
 - Configurable settings for CAPTCHA generation and model training.
 
 ## Installation
-To get started with PyTorch Recognition, follow these steps:
+To get started with, follow these steps:
 
 1. Clone the repository:
    ```bash
@@ -84,10 +84,4 @@ We welcome contributions to improve PyTorch Recognition. Please follow these ste
 ## License
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-- [PyTorch](https://pytorch.org/) - The main framework used in this project.
-- The contributors and community for their valuable feedback and contributions.
-
-## Contact
-For any queries or discussions, feel free to open an issue or contact us directly.
 ```
