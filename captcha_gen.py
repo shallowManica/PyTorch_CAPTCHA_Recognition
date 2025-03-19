@@ -13,7 +13,7 @@ def random_captcha():
         captcha_text.append(c)
     return ''.join(captcha_text)
 
-# 生成字符对应的验证码
+# generate the corresponding captcha
 def gen_captcha_text_and_image():
     image = ImageCaptcha()
     captcha_text = random_captcha()
@@ -22,7 +22,7 @@ def gen_captcha_text_and_image():
 
 if __name__ == '__main__':
     count = 8000
-    path = captcha_setting.TRAIN_DATASET_PATH    #通过改变此处目录，以生成 训练、测试和预测用的验证码集
+    path = captcha_setting.TRAIN_DATASET_PATH    
     if not os.path.exists(path):
         os.makedirs(path)
     for i in range(count):
