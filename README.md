@@ -1,4 +1,4 @@
-```markdown
+
 # PyTorch CAPTCHA Recognition
 
 ## Overview
@@ -84,4 +84,3 @@ We welcome contributions to improve PyTorch Recognition. Please follow these ste
 ## License
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
-```
