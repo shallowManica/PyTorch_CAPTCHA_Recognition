@@ -72,15 +72,6 @@ pytorch-recognition/
 ├── captcha_setting.py   # CAPTCHA settings
 └── README.md            # Project documentation
 ```
-
-## Contributing
-We welcome contributions to improve PyTorch Recognition. Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes and push to your branch.
-4. Submit a pull request with a detailed description of your changes.
-
 ## License
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
