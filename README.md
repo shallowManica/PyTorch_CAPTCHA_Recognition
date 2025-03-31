@@ -39,7 +39,7 @@ python captcha_gen.py
 ### Training the Model
 To train the model, use the following command:
 ```bash
-python train.py --config configs/config.yaml
+python train.py
 ```
 
 ### Testing the Model
@@ -57,12 +57,7 @@ python captcha_predict.py
 ## Directory Structure
 ```plaintext
 pytorch-recognition/
-├── configs/             # Configuration files
-├── models/              # Model definitions
-├── notebooks/           # Jupyter notebooks for experiments
-├── scripts/             # Utility scripts
 ├── train.py             # Script to train models
-├── inference.py         # Script for inference
 ├── requirements.txt     # List of dependencies
 ├── captcha_cnn_model.py # CNN model definition
 ├── captcha_gen.py       # Script to generate CAPTCHA images
