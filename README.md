@@ -58,7 +58,6 @@ python captcha_predict.py
 ```plaintext
 pytorch-recognition/
 ├── configs/             # Configuration files
-├── data/                # Datasets and data loaders
 ├── models/              # Model definitions
 ├── notebooks/           # Jupyter notebooks for experiments
 ├── scripts/             # Utility scripts
